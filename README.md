@@ -160,6 +160,17 @@ Weather data APIs or simulated disruption services for event detection
 Payment System
 Mock payout service to simulate compensation transactions
 
+
+🚨 Market Crash Handling
+
+Kavach AI is designed to handle large-scale disruption events where multiple regions are affected simultaneously. In such scenarios, the system shifts from normal monitoring to a high-response mode, where environmental thresholds are dynamically adjusted and all active policies in impacted zones are evaluated in real time. This ensures that sudden, widespread disruptions like extreme weather or emergency restrictions are handled efficiently without manual intervention.
+
+⚡ Bulk Claim Processing & System Resilience
+
+During a market crash event, Kavach AI identifies all eligible workers and triggers bulk claim generation and payout processing. The system ensures that only valid and active policies are considered, while preventing duplicate or invalid claims. This capability demonstrates the platform’s ability to maintain accuracy, fairness, and performance even under high-load conditions, making it closer to a real-world, scalable insurance system.
+
+
+
 6-Week Development Roadmap
 Phase 1 – Ideation & Foundation
 
